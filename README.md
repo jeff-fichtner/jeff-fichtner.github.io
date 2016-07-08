@@ -1,3 +1,3 @@
 # jeff-fichtner.github.io
-Personal site
+Personal site //
 Currently: 3.5 Solo Challenge
