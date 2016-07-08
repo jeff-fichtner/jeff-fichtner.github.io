@@ -1,3 +1,3 @@
 # jeff-fichtner.github.io
 Personal site
-Currently: 2.5 Solo Challenge
+Currently: 3.5 Solo Challenge
